@@ -25,3 +25,4 @@ print(x.imag)
 ![mod1-4](https://github.com/user-attachments/assets/fce737ff-8f6b-43a6-9cf5-6d2a3a1dd18f)
 
 ## Result
+THUS THE OUTPUT IS VERIFIED
