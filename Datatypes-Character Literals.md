@@ -18,3 +18,4 @@ print(b)
 ![mod1-3](https://github.com/user-attachments/assets/d6e99db4-7def-454f-8916-d6ccecd4ef2f)
 
 ## Result
+THUS THE OUTPUT IS VERIFIED
