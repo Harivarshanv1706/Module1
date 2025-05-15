@@ -32,3 +32,4 @@ print('d:',d)
 ![mod1-2](https://github.com/user-attachments/assets/ebe8d4da-c846-4336-8c89-dc9c95626d64)
 
 ## Result
+Thus the output is verified
