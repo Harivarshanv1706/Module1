@@ -22,3 +22,4 @@ else:
 ## Output
 ![438638325-36bcd2f3-ede7-47ee-8d65-2dc366a6b298](https://github.com/user-attachments/assets/ccd60e59-a5c5-46a0-9a00-4716f5c396cc)
 ## Result
+Thus the output is verified
