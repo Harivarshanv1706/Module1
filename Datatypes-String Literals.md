@@ -18,3 +18,4 @@ print(men_stepped_on_the_moon)
 ![mod1-5](https://github.com/user-attachments/assets/7e1c34ce-9ed8-4ddf-b259-8c9aae4636e6)
 
 ## Result
+THUS THE OUTPUT IS VERIFIED
